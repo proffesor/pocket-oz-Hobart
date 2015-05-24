@@ -1,0 +1,102 @@
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#SlideShow1 .image
+{
+   border-width: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#SlideShow1
+{
+   -webkit-animation: animate-fade-in 500ms linear 2ms infinite normal both;
+   -moz-animation: animate-fade-in 500ms linear 2ms infinite normal both;
+   -ms-animation: animate-fade-in 500ms linear 2ms infinite normal both;
+   animation: animate-fade-in 500ms linear 2ms infinite normal both;
+}
+#SlideShow1:active
+{
+   background-color: #FFFFFF;
+   -webkit-transition: background-color 500ms linear 0ms;
+   -moz-transition: background-color 500ms linear 0ms;
+   -ms-transition: background-color 500ms linear 0ms;
+   transition: background-color 500ms linear 0ms;
+}
+#Shape2
+{
+   border-width: 0;
+}
+#Image11
+{
+   border: 0px #000000 solid;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image12
+{
+   border: 0px #000000 solid;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image14
+{
+   border: 0px #000000 solid;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#TextArt2
+{
+   border-width: 0;
+}
+#TextArt3
+{
+   border-width: 0;
+}
+#Image1
+{
+   border: 0px #000000 solid;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image5
+{
+   border: 0px #000000 solid;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image6
+{
+   border: 0px #000000 solid;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image2
+{
+   border: 0px #000000 solid;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
